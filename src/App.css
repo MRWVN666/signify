@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.Nav{
+background-color: #00A2DB;
+max-width: auto;
+max-height: 100px;
+display: flex;
+}
+.Logo{
+  max-width: 100px;
+  max-height: auto;
+}
+.Text{
+  color: white;
+}
